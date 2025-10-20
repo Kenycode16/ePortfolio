@@ -1,10 +1,9 @@
 # 🧭 Dispatcher App — CS 499 Capstone Project  
 
 ### 🎓 Southern New Hampshire University — Computer Science ePortfolio  
-**Student:** [Your Name]  
+**Student:** Mohamed Aziz Zaghdoudi  
 **Course:** CS 499 – Computer Science Capstone  
-**Instructor:** [Instructor Name]  
-**Date:** [Month, Year]  
+**Date:** [Oct, 2025]  
 
 ---
 
