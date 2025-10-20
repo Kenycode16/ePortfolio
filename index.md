@@ -52,7 +52,7 @@ This project demonstrates proficiency across all three major areas of computer s
 - Utilized efficient data structures such as **maps, queues, and arrays** to manage active flight and assignment data.  
 - Optimized fairness and task distribution using sorting and constraint filtering.
 
-[📥 Download Enhancement 2 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499 category two enhancement Narrative.docx)
+[📥 Download Enhancement 2 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_category_two_enhancement_Narrative.docx)
 
 ---
 
@@ -61,7 +61,7 @@ This project demonstrates proficiency across all three major areas of computer s
 - Created **Mongoose models** and **Express routes** for CRUD operations.  
 - Ensured secure communication and scalability between backend and frontend.
 
-[📥 Download Enhancement 3 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499 category three enhancement Narrative.docx)
+[📥 Download Enhancement 3 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_category_three_enhancement_Narrative.docx)
 
 ---
 
@@ -75,7 +75,7 @@ The self-assessment summarizes my learning journey throughout the Computer Scien
 ## 🎥 Code Review Video  
 In this video, I present the architecture, explain each enhancement, and demonstrate how the Dispatcher App integrates software design, algorithms, and databases.  
 
-🎬 **Watch Here:** [https://youtu.be/nhLiJEXryek]
+🎬 **Watch Here:** [YouTube Link](https://youtu.be/nhLiJEXryek)
 
 ---
 
