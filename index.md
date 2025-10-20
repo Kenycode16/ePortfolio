@@ -68,7 +68,7 @@ This project demonstrates proficiency across all three major areas of computer s
 ## 🧾 Professional Self-Assessment
 The self-assessment summarizes my learning journey throughout the Computer Science program and highlights how the Dispatcher App demonstrates my growth as a full-stack developer.
 
-[📥 Download Enhancement 3 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_Professional_Self_Assessment.docx)
+[📥 Professional Self-Assessment](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_Professional_Self_Assessment.docx)
 
 ---
 
