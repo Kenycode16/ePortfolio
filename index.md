@@ -43,7 +43,7 @@ This project demonstrates proficiency across all three major areas of computer s
 - Implemented **Role-Based Access Control (RBAC)** and guarded routing to manage access between dispatcher and gate agent roles.  
 - Designed clean UI flow for both mobile (agents) and desktop (dispatchers).
 
-[📥 Download Enhancement 1 Narrative](docs/Narrative_one.docx)
+[📥 Download Enhancement 1 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/Narrative_one.docx)
 
 ---
 
