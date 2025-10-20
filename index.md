@@ -107,7 +107,7 @@ Access the frontend at [http://localhost:5173](http://localhost:5173) and backen
 
 ## 🌐 GitHub Pages Portfolio
 The full ePortfolio containing artifacts, narratives, and documentation is hosted on:  
-🔗 https://github.com/Kenycode16/Dispatcher-app
+🔗 [https://github.com/Kenycode16/Dispatcher-app](https://github.com/Kenycode16/Dispatcher-app/tree/category-three-enhancement)
 
 ---
 
