@@ -43,7 +43,7 @@ This project demonstrates proficiency across all three major areas of computer s
 - Implemented **Role-Based Access Control (RBAC)** and guarded routing to manage access between dispatcher and gate agent roles.  
 - Designed clean UI flow for both mobile (agents) and desktop (dispatchers).
 
-./docs/CS499_category_one_enhancement_Narrative.docx
+[📥 Download Enhancement 1 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_category_one_enhancement_Narrative.docx)
 
 ---
 
@@ -52,7 +52,7 @@ This project demonstrates proficiency across all three major areas of computer s
 - Utilized efficient data structures such as **maps, queues, and arrays** to manage active flight and assignment data.  
 - Optimized fairness and task distribution using sorting and constraint filtering.
 
-./docs/CS499_category_two_enhancement_Narrative.docx
+[📥 Download Enhancement 2 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_category_two_enhancement_Narrative.docx)
 
 ---
 
@@ -61,14 +61,13 @@ This project demonstrates proficiency across all three major areas of computer s
 - Created **Mongoose models** and **Express routes** for CRUD operations.  
 - Ensured secure communication and scalability between backend and frontend.
 
-./docs/CS499_category_three_enhancement_Narrative.docx
-
+[📥 Download Enhancement 3 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_category_three_enhancement_Narrative.docx)
 ---
 
 ## 🧾 Professional Self-Assessment
 The self-assessment summarizes my learning journey throughout the Computer Science program and highlights how the Dispatcher App demonstrates my growth as a full-stack developer.
 
-./docs/CS499_Professional_Self_Assessment.docx
+[📥 Download Enhancement 3 Narrative](https://github.com/Kenycode16/ePortfolio/raw/main/docs/CS499_Professional_Self_Assessment.docx)
 
 ---
 
